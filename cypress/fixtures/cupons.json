@@ -1,0 +1,5 @@
+{
+  "validos": ["FRETEGRATIS"],
+  "invalidos": ["TAY10", "TESTEINVALIDO"],
+  "frete": ["10OFF"]
+}
